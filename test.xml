@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tns:globalEmployee xmlns:tns="http://www.telusko.com/EmployeeScema"
+ xmlns:xsd="http://www.w3.org/2001/XMLSchema" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://www.telusko.com/ EmployeeScemasrc/main/webapp/EmployeeScema.xsd ">
+  <tns:Employees>
+<tns:Ename></tns:Ename>
+  </tns:Employees>
+ 
+</tns:globalEmployee>
