@@ -3,7 +3,7 @@ package com.vidvaan;
 public class HelloServices {
 	
 	public String Hello(String name) {
-		return "HELLO  :"+name;
+		return "hi  :"+name;
 	
 	}
 
